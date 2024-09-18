@@ -3,3 +3,38 @@
 .1024feature*
 .nfs.*
 target/
+# Clacky ignore rules
+cython_debug/
+.git/
+.1024.nix
+.1024feature*
+.nfs*
+*.dll
+.paas-unit-*
+core.*
+.breakpoints
+.env
+
+# General
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
+*.tmp
+*.swp
+*.bak
+*.pid
+*.seed
+*.pid.lock
+# Logs and temp files
+*.log
+*.tmp
+*.temp
+*.bak
+*.old
+*.swp
+*.swo
+# Java
+*.class
+target/
